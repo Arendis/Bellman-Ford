@@ -4,9 +4,9 @@
 соответственно, их можно выполнять не последовательно, а в параллель. 
 
 # находим растояния
-for i in range(1,len(graph)):\
-# вот здесь
-#for u,v,w in edges:
-##if dist[u] + w < dist[v]:
-###dist[v] = dist[u] + w
+# for i in range(1,len(graph)):\
+## вот здесь
+# for u,v,w in edges:
+## if dist[u] + w < dist[v]:
+### dist[v] = dist[u] + w
 
